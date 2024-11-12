@@ -1,0 +1,7 @@
+Client: hello server
+Server: hello client
+Client: how are you
+Server: i am good how are you
+Client: that's great, goodbye
+Server: goodbye
+Client: exit
